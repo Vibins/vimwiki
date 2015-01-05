@@ -1,0 +1,15 @@
+=Essential Skills for Computing 14COA101=
+
+*Lecturer* Ian Murry
+
+==Topics==
+
+[[Intoduction]]
+[[Basic *nix]]
+[[Finding, Evaluating, and Citing Information]]
+[[Software Engineering and LaTeX]]
+[[Document Structures]]
+[[Report Writing using LaTeX]]
+[[Version Control]]
+[[CMS & intro to assignment]]
+[[Design and Use of Plugins]]

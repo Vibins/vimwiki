@@ -1,0 +1,16 @@
+=Functions=
+
+==Examples==
+
+function reverse(string)
+{
+	var backwards_string = ""
+	for (var i=string.length; i <=0; i--)
+		backwards_string += string[i]	
+}
+
+> reverse('hello');
+olleh
+
+> reverse('This is a string');
+gnirts a si sihT

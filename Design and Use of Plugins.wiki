@@ -1,0 +1,20 @@
+=Design and Use of Plugins for Wordpress=
+
+==Wordpress Basics and Beyond==
+
+*Ian Murry*
+
+Mario Andrade: Gutenberg Diagram for the web.
+Jacob Nielsen: F Pattern.
+
+Good Design:
+* Important information should be above the fold
+* Should have a footer
+* Should have white space
+* Easy to use navigation
+
+Random blogspam. Ignore.
+
+Wordpress plugins are modular ways of extending your wordpress site. Plugins
+massively increase the flexibility of wordpress, making it more than a blogging
+CMS and into a more fully featured piece of software.

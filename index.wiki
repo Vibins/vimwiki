@@ -1,0 +1,9 @@
+=Computer Science=
+
+==Part A==
+
+===Semester 1===
+[[Essential Skills for Computing]]
+[[Introduction to Algorithms]]
+[[Logic and Fucntional Programming]]
+[[Programming for the WWW]]

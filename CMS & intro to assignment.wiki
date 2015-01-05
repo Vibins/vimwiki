@@ -1,0 +1,18 @@
+=Wordpress and Intro to Project=
+
+==Project==
+
+* [[Install Wordpress]]
+* Multiple Pages
+* Multiple Posts
+* co-project server
+* Group co-project accounts will be emailed to us
+
+We work in our groups to install Wordpress.
+One of us will install and configure *Wordpress*, the rest of us will write pages
+and blog posts.
+
+===Optional===
+
+* Themeing Wordpress
+* Extra settings in wp-config

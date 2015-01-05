@@ -1,0 +1,17 @@
+=Programming for the WWW 14COA122=
+
+*Lecturers* Huanjia Yang, André Schappo
+
+==Topics==
+
+[[Javascript Basics]]
+[[Conditionals]]
+[[Iteration, arrays]]
+[[Conditionals, Iteration II]]
+[[Functions]]
+[[DHTML Basics]]
+[[DHTML & Puzzles]]
+[[DHTML outside forms]]
+[[DHTML animation]]
+[[Frames]]
+[[Server-Side processing of forms]]

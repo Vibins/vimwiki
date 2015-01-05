@@ -1,0 +1,4 @@
+=wget=
+
+*wget* is a comand line tool for downloading files form the world wide web. It
+is useful if you need to downlad a tarball.

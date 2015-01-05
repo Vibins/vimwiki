@@ -1,0 +1,7 @@
+=Installing Wordpress=
+
+* Use [[wget]] to download tarball on the co-project server.
+* Untar the tarball on the server in the html folder.
+* Make wp-config.php
+* Put database settings for co-project server in wp-config file.
+* Run *Wordpress* installer.
